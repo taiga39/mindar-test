@@ -37,8 +37,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 };
 exports.__esModule = true;
 var THREE = require("three");
-// var mindar_image_three_prod_js_1 = require("mind-ar/dist/mindar-image-three.prod.js");
-var mindar_image_three_prod_js_1 = require("mindar-image-three");
+var mindar_image_three_prod_js_1 = require("mind-ar/dist/mindar-image-three.prod.js");
 var mindarThree;
 var renderAnimationId = null;
 var container = document.getElementById("container");
